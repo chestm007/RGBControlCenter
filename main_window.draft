@@ -1,0 +1,10 @@
+##########################
+# label[Fan_name]
+#
+# light_brightness[0-100][slider]
+# light_mode[rgb_spectrum, ...][dropdown]
+# light_mode_options[button, popout window]
+# light_speed[secs][input_box]
+#
+# fan_mode[static, temp][dropdown]
+# fan_speed[temp|multiplier[0-30], static|speed[0-100]]
